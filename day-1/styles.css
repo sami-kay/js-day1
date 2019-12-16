@@ -1,0 +1,20 @@
+body {
+  background-color: #ccc;
+  padding: 15px;
+}
+
+.textArea {
+  text-align: center;
+}
+
+img {
+  padding: 5px 15px;
+}
+
+img:hover {
+  border: 4px red solid;
+}
+
+h1, h3, p{
+  color: blue;
+}
